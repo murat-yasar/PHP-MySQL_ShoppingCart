@@ -1,0 +1,54 @@
+body {
+    background-color: #ececec;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.cart-icon {
+    font-size: 16px;
+}
+
+.cart-count {
+    position: relative;
+    background-color: #d9534f;
+    font-size: 8px;
+    top: -10px;
+    left: -5px;
+}
+
+.color-danger {
+    color: #d9534f;
+}
+
+.item-count-input {
+    width: 50px;
+    text-align: center;
+}
+
+.sign {
+    position: relative;
+    font-size: larger;
+    text-align: center;
+    top: -10px;
+    left: -4px;
+}
+
+.btn-change {
+    height: 30px;
+    width: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+tfoot th {
+    padding: 20px!important;
+    background-color: #dfdfdf!important;
+}
+
+table {
+    box-shadow: 0 0 8px rgba(5,5,5,.3);
+}
